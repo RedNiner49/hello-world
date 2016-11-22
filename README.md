@@ -1,2 +1,3 @@
 # hello-world
 First Repository 
+RedNiner49 here, i am here to learn code and creat code. i want to progress in this fild being that technology is all around us everywhere we go everything we hear and now touch is technology, its almost become a new sense. so lets begin...
